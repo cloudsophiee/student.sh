@@ -9,4 +9,5 @@ cd johnfile
 touch john
 
 echo "change your laptop to macbook" >> john
+echo "editing"
 
